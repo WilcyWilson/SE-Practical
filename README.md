@@ -7,13 +7,13 @@ https://www.ibm.com/support/pages/ibm-rational-rose-enterprise-7004-ifix001
 
 # Assignment 01
 
+### Assignment 1 Question
+![Assignment Question](SEAssignment1.jpg)
+
 ### Example for Assignment 1
 ![Use Case Vending](SimpleMovieTicketVendingUseCase.jpg)
 
 ![Class and Code of Class](ClassDiagramAndCode.jpg)
-
-### Assignment 1 Question
-![Assignment Question](SEAssignment1.jpg)
 
 ### Use Case Diagram Airline Reservation System
 ![Use Case Airline Reservation](AirlineReservationUseCase.png)
